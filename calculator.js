@@ -9,7 +9,7 @@ for(i=0;i<button.length;i++){
 
 function clicked(){
     var txt= this.innerText;
-    console.log(txt)
+//     console.log(txt)
     alwaysSound.play()
     clickSound.play()
 
